@@ -1,1 +1,1 @@
-# -OpenCV_Semi_Project
+# OpenCV_Semi_Project
